@@ -1,7 +1,8 @@
-TODO:
-----------------------------
+Printed MDF chasis, soldered and tested circuit. Done.
 
-* Make foamcore column
 
-* Print MDF
-
+Issues remaining:
+---------
+* tabs on front motor mounts (closest to wheels) too close to edge (fragile)
+* screw holes on hbridge too close together (wrong dimensions?)
+* column diameter too small, foamcore model barely fits into tabs
